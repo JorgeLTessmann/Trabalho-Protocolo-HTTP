@@ -1,8 +1,8 @@
 # Nome: Jorge Luiz Tessmann
 ## Sites Escolhidos
-- https://www.youtube.com/
-- https://www.instagram.com/
-- https://g1.com.br/
+- https://www.youtube.com/ (Domínio genérico .com)
+- https://www.instagram.com/ (Domínio genérico .com)
+- https://g1.com.br/ (Domínio nacional .br)
   
 # Comandos Usados
 
