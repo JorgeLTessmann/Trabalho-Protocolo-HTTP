@@ -40,7 +40,6 @@ Servidor:  ADACAD.acad.redes-ienh.com.br
 Address:  192.168.0.4
 
 *** ADACAD.acad.redes-ienh.com.br não encontrou https://www.youtube.com/: Non-existent domain
-PS C:\Users\0150613>
 ```
 
 ### Codigo Usado:
@@ -133,4 +132,19 @@ Servidor:  ADACAD.acad.redes-ienh.com.br
 Address:  192.168.0.4
 
 *** ADACAD.acad.redes-ienh.com.br não encontrou https://www.instagram.com/:: Non-existent domain
+```
+
+## G1
+
+### Codigo Usado:
+
+```
+nslookup -type=NS https://g1.com.br/
+```
+### Resultado
+```
+Servidor:  one.one.one.one
+Address:  1.1.1.1
+
+*** one.one.one.one não encontrou https://g1.com.br/: Non-existent domain
 ```
